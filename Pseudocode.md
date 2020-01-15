@@ -48,9 +48,13 @@ There are 10 tatics cards
 
 + Mud. 四张牌.
 
-+ Scout. 观星. **The following** is new to me, please check it out
++ Scout. 观星.
+
+  **The following** is new to me, please check it out
 
   > The player draws a total of 3 cards from one or both decks. Then he chooses **any two** cards from his hand and places them face down on top of their respective deck or decks.
+  
+  So, **any two** cards or **two from the 3** cards he drew in this round?
 
 + Redeploy. 重新部署.
 
